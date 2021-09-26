@@ -1,6 +1,7 @@
 # American Singers
 
 ## [Website Live link](https://american-singer.netlify.app/)
+## Here is the link: [https://american-singer.netlify.app/](https://american-singer.netlify.app/)
 
 
 ## Usages Purpose
