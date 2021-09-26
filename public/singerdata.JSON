@@ -7,7 +7,7 @@
         "img": "https://www.thefamouspeople.com/profiles/thumbs/selena-gomez-1.jpg",
         "salary": 583339,
         "country": "USA",
-        "female": "Female"
+        "gender": "Female"
     },
     {
         "id": 2,
@@ -27,7 +27,7 @@
         "img": "https://www.thefamouspeople.com/profiles/thumbs/britney-spears-7.jpg",
         "salary": 183333,
         "country": "USA",
-        "female": "Female"
+        "gender": "Female"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "img": "https://www.thefamouspeople.com/profiles/thumbs/bruno-mars-5.jpg",
         "salary": 283333,
         "country": "USA",
-        "female": "Male"
+        "gender": "Male"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "img": "https://www.thefamouspeople.com/profiles/thumbs/demi-lovato-1.jpg",
         "salary": 181133,
         "country": "USA",
-        "female": "Female"
+        "gender": "Female"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "img": "https://www.thefamouspeople.com/profiles/thumbs/kanye-west-2.jpg",
         "salary": 383319,
         "country": "USA",
-        "female": "Male"
+        "gender": "Male"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "img": "https://www.thefamouspeople.com/profiles/thumbs/katy-perry-1.jpg",
         "salary": 983339,
         "country": "USA",
-        "female": "Female"
+        "gender": "Female"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "img": "https://www.thefamouspeople.com/profiles/thumbs/travis-scott-1.jpg",
         "salary": 111339,
         "country": "USA",
-        "female": "Male"
+        "gender": "Male"
     },
     {
         "id": 9,
@@ -87,7 +87,7 @@
         "img": "https://www.thefamouspeople.com/profiles/thumbs/ice-cube-3.jpg",
         "salary": 123339,
         "country": "USA",
-        "female": "Male"
+        "gender": "Male"
     },
     {
         "id": 10,
@@ -97,7 +97,7 @@
         "img": "https://www.thefamouspeople.com/profiles/thumbs/gwen-stefani-2.jpg",
         "salary": 123459,
         "country": "USA",
-        "female": "Female"
+        "gender": "Female"
     },
     {
         "id": 11,
@@ -107,7 +107,7 @@
         "img": "https://www.thefamouspeople.com/profiles/thumbs/belcalis-almanzar-4.jpg",
         "salary": 983339,
         "country": "USA",
-        "female": "Female"
+        "gender": "Female"
     },
     {
         "id": 12,
@@ -117,6 +117,6 @@
         "img": "https://www.thefamouspeople.com/profiles/thumbs/lana-del-rey-1.jpg",
         "salary": 583111,
         "country": "USA",
-        "female": "Female"
+        "gender": "Female"
     }
 ]

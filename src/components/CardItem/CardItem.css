@@ -1,0 +1,14 @@
+.carditem__img {
+    width: 104px;
+    height: 104px;
+    margin: auto;
+    border: 4px solid rgba(112, 39, 160, 0.2);
+}
+
+.carditem__bg--color {
+    background-color: rgba(112, 39, 160, 0.1);
+}
+
+.carditem__btn--color {
+    background-color: rgba(112, 39, 160, 0.2);
+}
