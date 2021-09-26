@@ -15,17 +15,17 @@ const IndividualSinger = (props) => {
                         <div className="row">
 
                             {/* img part */}
-                            <div className="col-4">
+                            <div className="col-lg-4 col-md-12 col-4">
                                 <img src={img} className="w-100" alt="" />
                             </div>
 
                             {/* text part */}
-                            <div className="col-5">
+                            <div className="col-lg-5 col-md-12 col-6">
                                 <h5>{name}</h5>
                             </div>
 
                             {/* close part */}
-                            <div className="col-2">
+                            <div className="col-lg-2 col-md-12 col-2">
                                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                             </div>
                             

@@ -30,7 +30,7 @@ const Main = () => {
             <div className="row pb-5">
 
                 {/* CardItem component call and pass data */}
-                <div className="col-9">
+                <div className="col-md-9 col-sm-7 col-12">
                     <div className="row">
                     {
                     singers.map(singer => <CardItem key={singer.id} singer={singer} handleButton={handleButton}></CardItem>)
@@ -40,7 +40,7 @@ const Main = () => {
                 </div>
 
                 {/* cart component call and passing data*/}
-                <div className="col-3">
+                <div className="col-md-3 col-sm-5 col-12">
                     <Cart cart={cart}></Cart>
                 </div>
 

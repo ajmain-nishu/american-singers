@@ -14,7 +14,7 @@ const CardItem = (props) => {
     // destructuring object
     const {name, age, img, birth, country, salary, gender} = props.singer
     return (
-        <div className="col-4 g-4">
+        <div className="col-lg-4 col-md-6 col-12 g-4">
             
             {/* card img and text part */}
             <div className="card p-2 h-100 carditem__bg--color shadow-sm">
