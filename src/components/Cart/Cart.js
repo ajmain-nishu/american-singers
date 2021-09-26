@@ -6,10 +6,10 @@ import IndividualSinger from '../IndividualSinger/IndividualSinger';
 //cart function
 const Cart = (props) => {
     // destructuring object
-    const {cart} = props
+    const {cart} = props;
 
     //summation total cost
-    let totalPrice = cart.reduce((previous, product) => previous + product.salary, 0)
+    let totalPrice = cart.reduce((previous, product) => previous + product.salary, 0);
     return (
         <div className="mt-3">
 

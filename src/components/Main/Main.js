@@ -8,20 +8,20 @@ import Cart from '../Cart/Cart';
 const Main = () => {
 
     //usestate hook
-    const [singers, setSingers] = useState([])
-    const [cart, setCart] = useState([])
+    const [singers, setSingers] = useState([]);
+    const [cart, setCart] = useState([]);
 
     //api called using side effect
     useEffect(() => {
         fetch('./singerdata.JSON')
         .then(res => res.json())
         .then(data => setSingers(data))
-    }, [])
+    }, []);
 
     //handlebutton fuction
     const handleButton = (singer) => {
-        const newCart = [...cart, singer]
-        setCart(newCart)
+        const newCart = [...cart, singer];
+        setCart(newCart);
     }
 
     return (

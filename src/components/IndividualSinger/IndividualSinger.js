@@ -5,7 +5,7 @@ import React from 'react';
 //individual function
 const IndividualSinger = (props) => {
     // destructuring object
-    const { name, img } = props.individualSinger
+    const { name, img } = props.individualSinger;
     return (
         <div>
 

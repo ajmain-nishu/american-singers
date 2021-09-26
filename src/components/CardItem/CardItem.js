@@ -9,10 +9,10 @@ import { faMusic } from '@fortawesome/free-solid-svg-icons'
 const CardItem = (props) => {
 
     //font awesome stored in a variable
-    const musicIcon = <FontAwesomeIcon icon={faMusic} />
+    const musicIcon = <FontAwesomeIcon icon={faMusic} />;
     
     // destructuring object
-    const {name, age, img, birth, country, salary, gender} = props.singer
+    const {name, age, img, birth, country, salary, gender} = props.singer;
     return (
         <div className="col-lg-4 col-md-6 col-12 g-4">
             
