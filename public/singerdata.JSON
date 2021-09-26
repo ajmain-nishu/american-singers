@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Selena Gomez",
+        "birth": 1992,
+        "age": 29,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/selena-gomez-1.jpg",
+        "salary": 583339,
+        "country": "USA",
+        "female": "Female"
+    },
+    {
+        "id": 2,
+        "name": "Jennifer Lopez",
+        "birth": 1969,
+        "age": 52,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/jennifer-lopez-2.jpg",
+        "salary": 343334,
+        "country": "USA",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "name": "Britney Spears",
+        "birth": 1981,
+        "age": 40,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/britney-spears-7.jpg",
+        "salary": 183333,
+        "country": "USA",
+        "female": "Female"
+    },
+    {
+        "id": 4,
+        "name": "Bruno Mars",
+        "birth": 1985,
+        "age": 36,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/bruno-mars-5.jpg",
+        "salary": 283333,
+        "country": "USA",
+        "female": "Male"
+    },
+    {
+        "id": 5,
+        "name": "Demi Lovato",
+        "birth": 1992,
+        "age": 29,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/demi-lovato-1.jpg",
+        "salary": 181133,
+        "country": "USA",
+        "female": "Female"
+    },
+    {
+        "id": 6,
+        "name": "Kanye West",
+        "birth": 1977,
+        "age": 44,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/kanye-west-2.jpg",
+        "salary": 383319,
+        "country": "USA",
+        "female": "Male"
+    },
+    {
+        "id": 7,
+        "name": "Katy Perry",
+        "birth": 1984,
+        "age": 37,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/katy-perry-1.jpg",
+        "salary": 983339,
+        "country": "USA",
+        "female": "Female"
+    },
+    {
+        "id": 8,
+        "name": "Travis Scott",
+        "birth": 1992,
+        "age": 29,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/travis-scott-1.jpg",
+        "salary": 111339,
+        "country": "USA",
+        "female": "Male"
+    },
+    {
+        "id": 9,
+        "name": "Ice Cube",
+        "birth": 1969,
+        "age": 52,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/ice-cube-3.jpg",
+        "salary": 123339,
+        "country": "USA",
+        "female": "Male"
+    },
+    {
+        "id": 10,
+        "name": "Gwen Stefani",
+        "birth": 1969,
+        "age": 52,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/gwen-stefani-2.jpg",
+        "salary": 123459,
+        "country": "USA",
+        "female": "Female"
+    },
+    {
+        "id": 11,
+        "name": "Cardi B",
+        "birth": 1992,
+        "age": 29,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/belcalis-almanzar-4.jpg",
+        "salary": 983339,
+        "country": "USA",
+        "female": "Female"
+    },
+    {
+        "id": 12,
+        "name": "Lana Del Rey",
+        "birth": 1985,
+        "age": 36,
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/lana-del-rey-1.jpg",
+        "salary": 583111,
+        "country": "USA",
+        "female": "Female"
+    }
+]
